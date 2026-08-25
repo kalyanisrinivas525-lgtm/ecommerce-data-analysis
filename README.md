@@ -1,2 +1,2 @@
 # Ecommerce-Data-Analysis
-E-commerce sales data analysis using Excel, SQL 
+E-commerce sales data analysis using Excel and SQL 
